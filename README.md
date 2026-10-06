@@ -13,6 +13,10 @@ Neural Computing and Applications.
 The project implements multiple machine learning algorithms and compares their performance. A Streamlit-based web application is also developed to allow users to enter patient information and obtain a model prediction.
 
 ---
+## 🌐 Live Application
+
+**Try the Diabetes Prediction Web Application:**  
+https://diabetes-prediction-etidbg3zcmtlmykcr8s32e.streamlit.app/
 
 ## Research Paper-Based Implementation
 
